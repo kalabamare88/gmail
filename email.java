@@ -20,7 +20,7 @@ public class email {
         driver = new ChromeDriver();
         driver.get("https://mail.google.com/");
 
-        driver.findElement(By.xpath("//input[@id='identifierId']")).sendKeys("girmaytadesepop@gmail.com");
+        driver.findElement(By.xpath("//input[@id='identifierId']")).sendKeys("kalabamare88@gmail.com");
 
         driver.findElement(By.id("identifierNext")).click();
 
