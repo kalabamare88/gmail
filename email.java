@@ -33,7 +33,7 @@ public class email {
 
         Thread.sleep(1000);
 
-        driver.findElement(By.name("password")).sendKeys("popgirma@2");
+        driver.findElement(By.name("password")).sendKeys("password");
 
         Thread.sleep(1000);
 
